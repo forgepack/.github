@@ -24,7 +24,7 @@ O README.md de cada produto possui uma seção de links para componentes relacio
     - weather
         - [weather-api](https://github.com/forgepack/weather-api)
         - [weather-web](https://github.com/forgepack/weather-web)
-    - stickers
+    - stickers(FIFA|NFL|NBA)
         - [stickers-api](https://github.com/forgepack/stickers-api)
         - [stickers-web](https://github.com/forgepack/stickers-web)
 - EXAMPLE (products)
