@@ -3,6 +3,7 @@ _ForgePack_
 produtos ou componentes
 O README.md de cada produto possui uma seção de links para componentes relacionados.
 
+```bash
 forgepack
 ├── core
 │   ├──	forgepack-core
@@ -21,3 +22,4 @@ forgepack
 └── docs
     ├──	forgepack-site
     └── forgepack-architecture
+```
