@@ -9,7 +9,7 @@ O README.md de cada produto possui uma seção de links para componentes relacio
 
 ## Repositories
 - FRAMEWORK (component): Repositórios que não têm interface para o usuário final, não fazem sentido isoladamente e são publicados como bibliotecas/módulos — dependências de outros repositórios.
-    - INFRA ([![library, backend](https://github.com/orgs/forgepack/repositories?q=topic:library)])
+    - INFRA ([library, backend](https://github.com/orgs/forgepack/repositories?q=topic:library,backend))
         -	[forgepack-utils](https://github.com/forgepack/forgepack-utils): utilitários gerais
         -	[forgepack-common](https://github.com/forgepack/forgepack-common): código compartilhado entre módulos
     - back-end (library, backend)
