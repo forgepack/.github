@@ -9,14 +9,14 @@ O README.md de cada produto possui uma seção de links para componentes relacio
 
 ## Repositories
 - FRAMEWORK (component): Repositórios que não têm interface para o usuário final, não fazem sentido isoladamente e são publicados como bibliotecas/módulos — dependências de outros repositórios.
-    - INFRA ([library, infra](https://github.com/orgs/forgepack/repositories?q=topic:library,infra))
+    - INFRA (topic: [library, infra](https://github.com/orgs/forgepack/repositories?q=topic:library,infra))
         -	[forgepack-utils](https://github.com/forgepack/forgepack-utils): utilitários gerais
         -	[forgepack-common](https://github.com/forgepack/forgepack-common): código compartilhado entre módulos
-    - back-end  `([library, backend](https://github.com/orgs/forgepack/repositories?q=topic:library,backend))`
+    - back-end (topic: [library, backend](https://github.com/orgs/forgepack/repositories?q=topic:library,backend))
         -	[forgepack-core](https://github.com/forgepack/forgepack-core): exceptions, DTOs, Helpers, Configurações
         -	[forgepack-auth](https://github.com/forgepack/forgepack-auth): autenticação
         - [forgepack-security](https://github.com/forgepack/forgepack-security): JWT, OAuth, Login, Roles, Spring Security
-    - front-end (library, backend)
+    - front-end (topic: [library, backfront](https://github.com/orgs/forgepack/repositories?q=topic:library,frontend))
         - [forgepack-ui](https://github.com/forgepack/forgepack-ui): botões, tabelas, formulários, modais
         - [forgepack-react](https://github.com/forgepack/forgepack-react): componentes react, hooks, providers
 
