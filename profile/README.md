@@ -70,6 +70,7 @@ São dependências de outros repositórios.
 [![GitHub forks](https://img.shields.io/github/forks/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
 
-**Made by [Gadelha TI](https://github.com/gadelhati)**
+**Made by [forgepack](https://github.com/forgepack)**
+**Domain [forgepack.dev](https://forgepack.dev)**
 
 </div>
