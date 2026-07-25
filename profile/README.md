@@ -32,6 +32,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
+| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Utilitários gerais | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
 | [forgepack-utils](https://github.com/forgepack/forgepack-utils) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-utils)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-utils) | Utilitários gerais | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
 | [forgepack-common](https://github.com/forgepack/forgepack-common) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-common)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-common) | Código compartilhado entre módulos | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
 | [forgepack-core](https://github.com/forgepack/forgepack-core) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-core)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-core) | Exceptions, DTOs, Helpers, Configurações | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
@@ -44,6 +45,8 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 |---|---|---|---|
 | [forgepack-ui](https://github.com/forgepack/forgepack-ui) | [![npm](https://img.shields.io/npm/v/@forgepack/ui)](https://www.npmjs.com/package/@forgepack/ui) | Botões, tabelas, formulários, modais | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-react](https://github.com/forgepack/forgepack-react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [forgepack-leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [forgepack-request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 
 ---
 
