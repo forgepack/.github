@@ -57,5 +57,6 @@ São publicados como bibliotecas ou módulos.
 São dependências de outros repositórios.
 
 <div align="center">
-    Domínio: [![forgepack.dev]](https://forgepack.dev)
+**Made by [ForgePack](https://github.com/forgepack)**
+**Domínio: [![forgepack.dev](https://forgepack.dev)]**
 </div>
