@@ -1,6 +1,4 @@
-<div align="center">
 # _ForgePack_
-</div>
     
 Bibliotecas e produtos reutilizáveis para back-end, front-end e infraestrutura.
 
