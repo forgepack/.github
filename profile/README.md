@@ -32,7 +32,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
-| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Utilitários gerais | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
+| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Pacote Completo | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
 | [forgepack-utils](https://github.com/forgepack/forgepack-utils) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-utils)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-utils) | Utilitários gerais. Código compartilhado entre módulos | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
 | [forgepack-core](https://github.com/forgepack/forgepack-core) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-core)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-core) | Exceptions, DTOs, Helpers, Configurações | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
 | [forgepack-auth](https://github.com/forgepack/forgepack-auth) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-auth)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-auth) | Autenticação | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
