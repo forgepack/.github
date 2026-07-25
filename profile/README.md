@@ -46,7 +46,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 | [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [io](https://github.com/forgepack/io) | [![npm](https://img.shields.io/npm/v/@forgepack/io)](https://www.npmjs.com/package/@forgepack/io) | Input, Select | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [ui](https://github.com/forgepack/ui) | [![npm](https://img.shields.io/npm/v/@forgepack/ui)](https://www.npmjs.com/package/@forgepack/ui) | Botões, tabelas, formulários, modais | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
-| [forgepack-react](https://github.com/forgepack/forgepack-react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [react](https://github.com/forgepack/react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 
 ---
 
