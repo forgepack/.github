@@ -9,7 +9,7 @@ O README.md de cada produto possui uma seção de links para componentes relacio
 
 ## Repositories
 - FRAMEWORK (component): Repositórios que não têm interface para o usuário final, não fazem sentido isoladamente e são publicados como bibliotecas/módulos — dependências de outros repositórios.
-    - INFRA (library, backend)
+    - INFRA ([![library, backend](https://github.com/orgs/forgepack/repositories?q=topic:library)])
         -	[forgepack-utils](https://github.com/forgepack/forgepack-utils): utilitários gerais
         -	[forgepack-common](https://github.com/forgepack/forgepack-common): código compartilhado entre módulos
     - back-end (library, backend)
@@ -57,18 +57,6 @@ São publicados como bibliotecas ou módulos.
 São dependências de outros repositórios.
 
 <div align="center">
-**Made by [ForgePack](https://github.com/forgepack)**
-**Domínio: [![forgepack.dev](https://forgepack.dev)]**
-</div>
-
-
-<div align="center">
-
-**⭐ Did you like the project? Leave a star! ⭐**
-
-[![GitHub stars](https://img.shields.io/github/stars/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
-[![GitHub forks](https://img.shields.io/github/forks/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
 
 **Made by [forgepack](https://github.com/forgepack)**
 **Domain [forgepack.dev](https://forgepack.dev)**
