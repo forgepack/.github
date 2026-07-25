@@ -45,8 +45,8 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 | [forgepack-io](https://github.com/forgepack/forgepack-io) | [![npm](https://img.shields.io/npm/v/@forgepack/forgepack-io)](https://www.npmjs.com/package/@forgepack/forgepack-io) | Input, Select | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-ui](https://github.com/forgepack/forgepack-ui) | [![npm](https://img.shields.io/npm/v/@forgepack/ui)](https://www.npmjs.com/package/@forgepack/ui) | Botões, tabelas, formulários, modais | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-react](https://github.com/forgepack/forgepack-react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
-| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
-| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/leaflet)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 
 ---
 
