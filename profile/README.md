@@ -52,6 +52,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 ## 📦 Products
 
+Mude a ordem das colunas deixando a descrição como segunda coluna 
 | Produto | API | Web | Topic | Descrição |
 |---|---|---|---|---|
 | WMS | [wms-api](https://github.com/forgepack/wms-api) | [wms-web](https://github.com/forgepack/wms-web) | [`wms`](https://github.com/orgs/forgepack/repositories?q=topic:wms) | Warehouse Management System |
@@ -66,7 +67,6 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 | Weather | [weather-api](https://github.com/forgepack/weather-api) | [weather-web](https://github.com/forgepack/weather-web) | [`weather`](https://github.com/orgs/forgepack/repositories?q=topic:weather) | Registro de observações meteorológicas |
 | Signal | [signal-api](https://github.com/forgepack/signal-api) | [signal-web](https://github.com/forgepack/signal-web) | [`signal`](https://github.com/orgs/forgepack/repositories?q=topic:signal) | — |
 | Research | [research-api](https://github.com/forgepack/research-api) | [research-web](https://github.com/forgepack/research-web) | [`research`](https://github.com/orgs/forgepack/repositories?q=topic:research) | — |
-
 ---
 
 ## 🧪 Examples
