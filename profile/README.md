@@ -32,21 +32,21 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
-| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Pacote Completo | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
+| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Pacote Completo | [`backend,library`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
 | [forgepack-utils](https://github.com/forgepack/forgepack-utils) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-utils)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-utils) | Utilitários gerais. Código compartilhado entre módulos | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
-| [forgepack-core](https://github.com/forgepack/forgepack-core) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-core)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-core) | Exceptions, DTOs, Helpers, Configurações | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
-| [forgepack-auth](https://github.com/forgepack/forgepack-auth) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-auth)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-auth) | Autenticação | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
-| [forgepack-security](https://github.com/forgepack/forgepack-security) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-security)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-security) | JWT, OAuth, Login, Roles, Spring Security | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
+| [forgepack-core](https://github.com/forgepack/forgepack-core) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-core)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-core) | Exceptions, DTOs, Helpers, Configurações | [`backend,library`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
+| [forgepack-authentication](https://github.com/forgepack/forgepack-authentication) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-authentication)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-authentication) | Autenticação | [`backend,library,authentication`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library,authentication) |
+| [forgepack-authorization](https://github.com/forgepack/forgepack-authorization) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-authorization)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-authorization) | JWT, OAuth, Login, Roles, Spring Security | [`backend,library,authorization`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library,authorization) |
 
 ### Front-end · NPM
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
+| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/leaflet)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
+| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-io](https://github.com/forgepack/forgepack-io) | [![npm](https://img.shields.io/npm/v/@forgepack/forgepack-io)](https://www.npmjs.com/package/@forgepack/forgepack-io) | Input, Select | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-ui](https://github.com/forgepack/forgepack-ui) | [![npm](https://img.shields.io/npm/v/@forgepack/ui)](https://www.npmjs.com/package/@forgepack/ui) | Botões, tabelas, formulários, modais | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 | [forgepack-react](https://github.com/forgepack/forgepack-react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
-| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/leaflet)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
-| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, hooks, providers | [`frontend`](https://github.com/orgs/forgepack/repositories?q=topic:frontend) |
 
 ---
 
