@@ -52,21 +52,20 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 ## 📦 Products
 
-Mude a ordem das colunas deixando a descrição como segunda coluna 
-| Produto | API | Web | Topic | Descrição |
+| Produto | Descrição | API | Web | Topic |
 |---|---|---|---|---|
-| WMS | [wms-api](https://github.com/forgepack/wms-api) | [wms-web](https://github.com/forgepack/wms-web) | [`wms`](https://github.com/orgs/forgepack/repositories?q=topic:wms) | Warehouse Management System |
-| PDV | [pdv-api](https://github.com/forgepack/pdv-api) | [pdv-web](https://github.com/forgepack/pdv-web) | [`pdv`](https://github.com/orgs/forgepack/repositories?q=topic:pdv) | Registrar vendas, controlar estoque e emitir notas fiscais |
-| ERP | [erp-api](https://github.com/forgepack/erp-api) | [erp-web](https://github.com/forgepack/erp-web) | [`erp`](https://github.com/orgs/forgepack/repositories?q=topic:erp) | Compras, faturamento, financeiro |
-| TMS | [tms-api](https://github.com/forgepack/tms-api) | [tms-web](https://github.com/forgepack/tms-web) | [`tms`](https://github.com/orgs/forgepack/repositories?q=topic:tms) | Gerencia a frota, calcula custo de frete, define rotas e rastreia entregas |
-| Loan | [loan-api](https://github.com/forgepack/loan-api) | [loan-web](https://github.com/forgepack/loan-web) | [`loan`](https://github.com/orgs/forgepack/repositories?q=topic:loan) | Gerencia trocas e empréstimos de bens |
-| Stickers | [stickers-api](https://github.com/forgepack/stickers-api) | [stickers-web](https://github.com/forgepack/stickers-web) | [`stickers`](https://github.com/orgs/forgepack/repositories?q=topic:stickers) | Álbum de figurinhas multi-tema (FIFA, NFL, NBA como dados/conteúdo, não repos separados) |
-| Barcode | [barcode-api](https://github.com/forgepack/barcode-api) | [barcode-web](https://github.com/forgepack/barcode-web) | [`barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode) | Leitura de código de barras |
-| Scrum | [scrum-api](https://github.com/forgepack/scrum-api) | [scrum-web](https://github.com/forgepack/scrum-web) | [`scrum`](https://github.com/orgs/forgepack/repositories?q=topic:scrum) | Gerenciamento de projetos em equipes |
-| Risk | [risk-api](https://github.com/forgepack/risk-api) | [risk-web](https://github.com/forgepack/risk-web) | [`risk`](https://github.com/orgs/forgepack/repositories?q=topic:risk) | Análise de risco |
-| Weather | [weather-api](https://github.com/forgepack/weather-api) | [weather-web](https://github.com/forgepack/weather-web) | [`weather`](https://github.com/orgs/forgepack/repositories?q=topic:weather) | Registro de observações meteorológicas |
-| Signal | [signal-api](https://github.com/forgepack/signal-api) | [signal-web](https://github.com/forgepack/signal-web) | [`signal`](https://github.com/orgs/forgepack/repositories?q=topic:signal) | — |
-| Research | [research-api](https://github.com/forgepack/research-api) | [research-web](https://github.com/forgepack/research-web) | [`research`](https://github.com/orgs/forgepack/repositories?q=topic:research) | — |
+| WMS | Warehouse Management System | [wms-api](https://github.com/forgepack/wms-api) | [wms-web](https://github.com/forgepack/wms-web) | [`wms`](https://github.com/orgs/forgepack/repositories?q=topic:wms) |
+| PDV | Registrar vendas, controlar estoque e emitir notas fiscais | [pdv-api](https://github.com/forgepack/pdv-api) | [pdv-web](https://github.com/forgepack/pdv-web) | [`pdv`](https://github.com/orgs/forgepack/repositories?q=topic:pdv) |
+| ERP | Compras, faturamento, financeiro | [erp-api](https://github.com/forgepack/erp-api) | [erp-web](https://github.com/forgepack/erp-web) | [`erp`](https://github.com/orgs/forgepack/repositories?q=topic:erp) |
+| TMS | Gerencia a frota, calcula custo de frete, define rotas e rastreia entregas | [tms-api](https://github.com/forgepack/tms-api) | [tms-web](https://github.com/forgepack/tms-web) | [`tms`](https://github.com/orgs/forgepack/repositories?q=topic:tms) |
+| Loan | Gerencia trocas e empréstimos de bens | [loan-api](https://github.com/forgepack/loan-api) | [loan-web](https://github.com/forgepack/loan-web) | [`loan`](https://github.com/orgs/forgepack/repositories?q=topic:loan) |
+| Stickers | Álbum de figurinhas multi-tema (FIFA, NFL, NBA como dados/conteúdo, não repositórios separados) | [stickers-api](https://github.com/forgepack/stickers-api) | [stickers-web](https://github.com/forgepack/stickers-web) | [`stickers`](https://github.com/orgs/forgepack/repositories?q=topic:stickers) |
+| Barcode | Leitura de código de barras | [barcode-api](https://github.com/forgepack/barcode-api) | [barcode-web](https://github.com/forgepack/barcode-web) | [`barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode) |
+| Scrum | Gerenciamento de projetos em equipes | [scrum-api](https://github.com/forgepack/scrum-api) | [scrum-web](https://github.com/forgepack/scrum-web) | [`scrum`](https://github.com/orgs/forgepack/repositories?q=topic:scrum) |
+| Risk | Análise de risco | [risk-api](https://github.com/forgepack/risk-api) | [risk-web](https://github.com/forgepack/risk-web) | [`risk`](https://github.com/orgs/forgepack/repositories?q=topic:risk) |
+| Weather | Registro de observações meteorológicas | [weather-api](https://github.com/forgepack/weather-api) | [weather-web](https://github.com/forgepack/weather-web) | [`weather`](https://github.com/orgs/forgepack/repositories?q=topic:weather) |
+| Signal | — | [signal-api](https://github.com/forgepack/signal-api) | [signal-web](https://github.com/forgepack/signal-web) | [`signal`](https://github.com/orgs/forgepack/repositories?q=topic:signal) |
+| Research | — | [research-api](https://github.com/forgepack/research-api) | [research-web](https://github.com/forgepack/research-web) | [`research`](https://github.com/orgs/forgepack/repositories?q=topic:research) |
 ---
 
 ## 🧪 Examples
