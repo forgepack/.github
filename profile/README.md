@@ -32,7 +32,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
-| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Utilitários gerais | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
+| [library](https://github.com/forgepack/library) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/library)](https://central.sonatype.com/artifact/dev.forgepack/library) | Utilitários gerais | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend,library) |
 | [forgepack-utils](https://github.com/forgepack/forgepack-utils) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-utils)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-utils) | Utilitários gerais | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
 | [forgepack-common](https://github.com/forgepack/forgepack-common) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-common)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-common) | Código compartilhado entre módulos | [`infra`](https://github.com/orgs/forgepack/repositories?q=topic:infra) |
 | [forgepack-core](https://github.com/forgepack/forgepack-core) | [![Maven Central](https://img.shields.io/maven-central/v/dev.forgepack/forgepack-core)](https://central.sonatype.com/artifact/dev.forgepack/forgepack-core) | Exceptions, DTOs, Helpers, Configurações | [`backend`](https://github.com/orgs/forgepack/repositories?q=topic:backend) |
@@ -58,6 +58,7 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 | PDV | [pdv-api](https://github.com/forgepack/pdv-api) | [pdv-web](https://github.com/forgepack/pdv-web) | [`pdv`](https://github.com/orgs/forgepack/repositories?q=topic:pdv) | Registrar vendas, controlar estoque e emitir notas fiscais |
 | ERP | [erp-api](https://github.com/forgepack/erp-api) | [erp-web](https://github.com/forgepack/erp-web) | [`erp`](https://github.com/orgs/forgepack/repositories?q=topic:erp) | Compras, faturamento, financeiro |
 | TMS | [tms-api](https://github.com/forgepack/tms-api) | [tms-web](https://github.com/forgepack/tms-web) | [`tms`](https://github.com/orgs/forgepack/repositories?q=topic:tms) | Gerencia a frota, calcula custo de frete, define rotas e rastreia entregas |
+| Loan | [loan-api](https://github.com/forgepack/loan-api) | [loan-web](https://github.com/forgepack/loan-web) | [`loan`](https://github.com/orgs/forgepack/repositories?q=topic:loan) | Gerencia trocas e empréstimos de bens |
 | Stickers | [stickers-api](https://github.com/forgepack/stickers-api) | [stickers-web](https://github.com/forgepack/stickers-web) | [`stickers`](https://github.com/orgs/forgepack/repositories?q=topic:stickers) | Álbum de figurinhas multi-tema (FIFA, NFL, NBA como dados/conteúdo, não repos separados) |
 | Barcode | [barcode-api](https://github.com/forgepack/barcode-api) | [barcode-web](https://github.com/forgepack/barcode-web) | [`barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode) | Leitura de código de barras |
 | Scrum | [scrum-api](https://github.com/forgepack/scrum-api) | [scrum-web](https://github.com/forgepack/scrum-web) | [`scrum`](https://github.com/orgs/forgepack/repositories?q=topic:scrum) | Gerenciamento de projetos em equipes |
@@ -65,9 +66,6 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 | Weather | [weather-api](https://github.com/forgepack/weather-api) | [weather-web](https://github.com/forgepack/weather-web) | [`weather`](https://github.com/orgs/forgepack/repositories?q=topic:weather) | Registro de observações meteorológicas |
 | Signal | [signal-api](https://github.com/forgepack/signal-api) | [signal-web](https://github.com/forgepack/signal-web) | [`signal`](https://github.com/orgs/forgepack/repositories?q=topic:signal) | — |
 | Research | [research-api](https://github.com/forgepack/research-api) | [research-web](https://github.com/forgepack/research-web) | [`research`](https://github.com/orgs/forgepack/repositories?q=topic:research) | — |
-
-**Produto sem split api/web (⚠️ estrutura ainda a decidir):**
-[forgepack-loan](https://github.com/forgepack/forgepack-loan) · `topic: loan`
 
 ---
 
