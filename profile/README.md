@@ -60,3 +60,16 @@ São dependências de outros repositórios.
 **Made by [ForgePack](https://github.com/forgepack)**
 **Domínio: [![forgepack.dev](https://forgepack.dev)]**
 </div>
+
+
+<div align="center">
+
+**⭐ Did you like the project? Leave a star! ⭐**
+
+[![GitHub stars](https://img.shields.io/github/stars/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
+[![GitHub forks](https://img.shields.io/github/forks/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/gadelhati/maps-back?style=social)](https://github.com/gadelhati/maps-back)
+
+**Made by [Gadelha TI](https://github.com/gadelhati)**
+
+</div>
