@@ -100,15 +100,15 @@ Repositórios de referência mostrando como consumir os frameworks acima.
 npm install @forgepack/ui
 ```
 
----
-
 ## 🔍 Navegando pela organização
 
 - **Todos os frameworks:** [`topic:library`](https://github.com/orgs/forgepack/repositories?q=topic:library)
 - **Todos os produtos de um domínio:** ex. [`topic:barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode)
 - **Templates para novos repositórios** (Settings → Template repository):
-  - `forgepack-template-library` — README, componentes relacionados, `pom.xml`/`package.json`, licença, CI básico
-  - `forgepack-template-product` — api, web, libs consumidas
+  - `forgepack-template-library-maven` — README, componentes relacionados, `pom.xml`, licença, CI básico
+  - `forgepack-template-library-npm` — README, componentes relacionados, `package.json`, licença, CI básico
+  - `forgepack-template-api` — api, libs consumidas
+  - `forgepack-template-web` — web, libs consumidas
 
 <div align="center">
 
