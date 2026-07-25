@@ -72,15 +72,15 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 Repositórios de referência mostrando como consumir os frameworks acima.
 
-- [forgepack-example-barcode-api](https://github.com/forgepack/forgepack-example-barcode-api)
-- [forgepack-example-barcode-web](https://github.com/forgepack/forgepack-example-barcode-web)
+- [example-barcode-api](https://github.com/forgepack/example-barcode-api)
+- [example-barcode-web](https://github.com/forgepack/example-barcode-web)
 
 ---
 
 ## 📚 Docs
 
-- [forgepack-site](https://github.com/forgepack/forgepack-site) — site institucional
-- [forgepack-architecture](https://github.com/forgepack/forgepack-architecture) — arquitetura, diagramas de dependência entre módulos
+- [site](https://github.com/forgepack/site) — site institucional
+- [architecture](https://github.com/forgepack/architecture) — arquitetura, diagramas de dependência entre módulos
 
 ---
 
@@ -90,7 +90,7 @@ Repositórios de referência mostrando como consumir os frameworks acima.
 ```xml
 <dependency>
     <groupId>dev.forgepack</groupId>
-    <artifactId>forgepack-core</artifactId>
+    <artifactId>core</artifactId>
     <version><!-- ver badge acima --></version>
 </dependency>
 ```
@@ -105,10 +105,10 @@ npm install @forgepack/ui
 - **Todos os frameworks:** [`topic:library`](https://github.com/orgs/forgepack/repositories?q=topic:library)
 - **Todos os produtos de um domínio:** ex. [`topic:barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode)
 - **Templates para novos repositórios** (Settings → Template repository):
-  - `forgepack-template-library-maven` — README, componentes relacionados, `pom.xml`, licença, CI básico
-  - `forgepack-template-library-npm` — README, componentes relacionados, `package.json`, licença, CI básico
-  - `forgepack-template-api` — api, libs consumidas
-  - `forgepack-template-web` — web, libs consumidas
+  - `template-library-maven` — README, componentes relacionados, `pom.xml`, licença, CI básico
+  - `template-library-npm` — README, componentes relacionados, `package.json`, licença, CI básico
+  - `template-api` — api, libs consumidas
+  - `template-web` — web, libs consumidas
 
 <div align="center">
 
