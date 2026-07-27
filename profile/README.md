@@ -4,9 +4,11 @@
 
 Bibliotecas e produtos reutilizáveis para back-end, front-end e infraestrutura.
 
-[![Maven Central](https://img.shields.io/badge/Maven%20Central-dev.forgepack-C71A36?logo=apachemaven&logoColor=white)](https://central.sonatype.com/namespace/dev.forgepack)
-[![npm](https://img.shields.io/badge/npm-%40forgepack-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/org/forgepack)
-[![Site](https://img.shields.io/badge/site-forgepack.dev-000000)](https://forgepack.dev)
+<p>
+  <a href="https://central.sonatype.com/namespace/dev.forgepack"><img src="https://img.shields.io/badge/Maven%20Central-dev.forgepack-C71A36?logo=apachemaven&logoColor=white"></a>
+  <a href="https://www.npmjs.com/org/forgepack"><img src="https://img.shields.io/badge/npm-%40forgepack-CB3837?logo=npm&logoColor=white"></a>
+  <a href="https://forgepack.dev"><img src="https://img.shields.io/badge/site-forgepack.dev-000000"></a>
+</p>
 
 **[Frameworks](#-frameworks-libraries)** · **[Products](#-products)** · **[Examples](#-examples)** · **[Docs](#-docs)** · **[Como usar](#-como-usar)**
 
