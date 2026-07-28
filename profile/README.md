@@ -74,8 +74,8 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 Repositórios de referência mostrando como consumir os frameworks acima.
 
-- [example-barcode-api](https://github.com/forgepack/example-barcode-api)
-- [example-barcode-web](https://github.com/forgepack/example-barcode-web)
+- [example-api](https://github.com/forgepack/example-api)
+- [example-web](https://github.com/forgepack/example-web)
 
 ---
 
