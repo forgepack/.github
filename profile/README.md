@@ -109,8 +109,8 @@ npm install @forgepack/ui
 - **Todos os frameworks:** [`topic:library`](https://github.com/orgs/forgepack/repositories?q=topic:library)
 - **Todos os produtos de um domínio:** ex. [`topic:barcode`](https://github.com/orgs/forgepack/repositories?q=topic:barcode)
 - **Templates para novos repositórios** (Settings → Template repository):
-  - [template-maven-library](https://github.com/forgepack/template-maven-library) — README, componentes relacionados, `pom.xml`, licença, CI básico
-  - [template-npm-library](https://github.com/forgepack/template-npm-library) — README, componentes relacionados, `package.json`, licença, CI básico
+  - [`template-maven-library`](https://github.com/forgepack/template-maven-library) — README, componentes relacionados, `pom.xml`, licença, CI básico
+  - [`template-npm-library`](https://github.com/forgepack/template-npm-library) — README, componentes relacionados, `package.json`, licença, CI básico
   - `template-api` — api, libs consumidas
   - `template-web` — web, libs consumidas
 
