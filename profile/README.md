@@ -46,8 +46,8 @@ Repositórios de bibliotecas reutilizáveis que **não possuem interface própri
 
 | Library | Versão | Descrição | Topic |
 |---|---|---|---|
-| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/leaflet)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, hooks, providers | [`frontend,leaflet`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,leaflet) |
-| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, hooks, providers | [`frontend,request`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,request) |
+| [leaflet](https://github.com/forgepack/leaflet) | [![npm](https://img.shields.io/npm/v/@forgepack/leaflet)](https://www.npmjs.com/package/@forgepack/leaflet) | Componentes React, e hooks | [`frontend,leaflet`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,leaflet) |
+| [request](https://github.com/forgepack/request) | [![npm](https://img.shields.io/npm/v/@forgepack/request)](https://www.npmjs.com/package/@forgepack/request) | Componentes Leaflet, e hooks | [`frontend,request`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,request) |
 | [io](https://github.com/forgepack/io) | [![npm](https://img.shields.io/npm/v/@forgepack/io)](https://www.npmjs.com/package/@forgepack/io) | Input, Select, QR and Barcode | [`frontend,io`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,io) |
 | [ui](https://github.com/forgepack/ui) | [![npm](https://img.shields.io/npm/v/@forgepack/ui)](https://www.npmjs.com/package/@forgepack/ui) | Botões, tabelas, formulários, modais | [`frontend,ui`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,ui) |
 | [react](https://github.com/forgepack/react) | [![npm](https://img.shields.io/npm/v/@forgepack/react)](https://www.npmjs.com/package/@forgepack/react) | Componentes React, hooks, providers | [`frontend,react`](https://github.com/orgs/forgepack/repositories?q=topic:frontend,react) |
